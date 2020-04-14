@@ -1,0 +1,5 @@
+[
+  { "channelAccessToken": "123", "channelSecret": "123" },
+  { "channelAccessToken": "456", "channelSecret": "456" },
+  { "channelAccessToken": "123", "channelSecret": "12343" }
+]
